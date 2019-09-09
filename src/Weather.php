@@ -1,10 +1,10 @@
 <?php
 
-namespace Timi\Weather;
+namespace TimiGo\Weather;
 
 use GuzzleHttp\Client;
-use Timi\Weather\Exceptions\HttpException;
-use Timi\Weather\Exceptions\InvalidArgumentException;
+use TimiGo\Weather\Exceptions\HttpException;
+use TimiGo\Weather\Exceptions\InvalidArgumentException;
 
 class Weather
 {

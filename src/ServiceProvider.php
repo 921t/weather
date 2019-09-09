@@ -1,6 +1,6 @@
 <?php
 
-namespace Timi\Weather;
+namespace TimiGo\Weather;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {

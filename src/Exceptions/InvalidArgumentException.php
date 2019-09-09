@@ -1,6 +1,6 @@
 <?php
 
-namespace Timi\Weather\Exceptions;
+namespace TimiGo\Weather\Exceptions;
 
 class InvalidArgumentException extends Exception
 {

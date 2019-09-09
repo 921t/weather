@@ -1,16 +1,16 @@
 <?php
 
-namespace Timi\Weather\Tests;
+namespace TimiGo\Weather\Tests;
 
-namespace Timi\Weather\Tests;
+namespace TimiGo\Weather\Tests;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Psr7\Response;
 use Mockery\Matcher\AnyArgs;
-use Timi\Weather\Exceptions\HttpException;
-use Timi\Weather\Exceptions\InvalidArgumentException;
-use Timi\Weather\Weather;
+use TimiGo\Weather\Exceptions\HttpException;
+use TimiGo\Weather\Exceptions\InvalidArgumentException;
+use TimiGo\Weather\Weather;
 use PHPUnit\Framework\TestCase;
 
 class WeatherTest extends TestCase
