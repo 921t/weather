@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require timi/weather -vvv
+$ composer require timigo/weather -vvv
 ```
 
 ## Usage
