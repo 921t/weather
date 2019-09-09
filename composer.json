@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Timi\\Weather\\": "./src"
+            "TimiGo\\Weather\\": "./src"
         }
     },
     "extra": {
